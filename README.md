@@ -21,6 +21,8 @@ Sendo o padrão:
 <dd>Regra</dd>
 </dl>
 
+Intellij jdk 11.0.2
+
 <img src="./Desenho.svg" />
 
 </p>
